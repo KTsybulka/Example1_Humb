@@ -7,7 +7,6 @@ Some nights you're breathing fire
 Some nights you're carved in ice
 Some nights you're like nothing I've ever
 Seen before or will again
-<<<<<<< HEAD
 
 Maybe I'm crazy, but it's crazy and it's true
 I know you can save me, no-one else can save me now but you
@@ -27,5 +26,3 @@ And there'll never be no turning back
 ----------------------------------
 
 ----------------------------------
-=======
->>>>>>> parent of d7b78e9 (Add paragraphs 3 and 4!)
